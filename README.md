@@ -61,8 +61,10 @@
         <li><b>Production Ready:</b> Containerized with <b>Docker & Docker Compose</b> for consistent multi-environment deployments.</li>
       </ul>
       <p>
-        🔗 <a href="https://github.com/Pushkar69RS/f1_timesheet"><b>Explore Repository (Pushkar69RS/f1_timesheet) →</b></a>
-      </p>
+  <a href="https://timelap-f1.onrender.com"><img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_App-00E676?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a>
+  &nbsp;
+  <a href="https://github.com/Pushkar69RS/f1_timesheet"><img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+</p>
     </td>
   </tr>
 </table>
