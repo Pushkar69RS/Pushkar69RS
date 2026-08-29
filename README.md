@@ -4,8 +4,7 @@ Software Developer | Information Science & Engineering Undergrad at BMSIT Bengal
 Focused on **Full-Stack Web Development, Applied AI / LLMs, and Real-Time Systems**.  
 Seeking **Software Engineering, Full-Stack, and AI Developer Internships**.
 
-[Email](mailto:scipreddy69@gmail.com) • [LinkedIn](https://linkedin.com/in/pushkar-rs) • Bengaluru, India • [Live Demo: PaceTracer]((https://timelap-f1.onrender.com))
-
+[Email](mailto:scipreddy69@gmail.com) • [LinkedIn](https://linkedin.com/in/pushkar-rs) • Bengaluru, India 
 ---
 
 ### 👨‍💻 `$ cat sys_info.json`
