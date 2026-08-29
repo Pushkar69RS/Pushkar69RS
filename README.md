@@ -41,7 +41,7 @@ Seeking **Software Engineering, Full-Stack, and AI Developer Internships**.
 - Designed a **60 FPS Canvas spline renderer** utilizing Catmull-Rom interpolation to project vehicle coordinates onto authentic sector transponders and DRS zones.
 - Developed **15+ RESTful APIs** with JWT authentication and optimized database queries for sub-millisecond driver statistics and head-to-head pace delta analysis.
 - Containerized the full-stack services using **Docker Compose** and deployed live on **Render**.
-- 🔗 **[Launch Live Demo]((https://timelap-f1.onrender.com))** | **[Source Code (Pushkar69RS/f1_timesheet)](https://github.com/Pushkar69RS/f1_timesheet)**
+- 🔗 **[Launch Live Demo](https://timelap-f1.onrender.com)** | **[Source Code (Pushkar69RS/f1_timesheet)](https://github.com/Pushkar69RS/f1_timesheet)**
 
 ---
 
